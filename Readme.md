@@ -1,6 +1,6 @@
 #AppMiWOM
 
-This app allows you to view the web http://www.wom.cl/miwom. On this page you can see your mobile plan consumption if and only if you are using your mobile network connection, this page doesn't work with wifi
+This app allows you to view the web http://www.wom.cl/miwom. On this page you can see your mobile plan consumption if and only if you are using your mobile network connection. This page doesn't work with wifi
 
 ##What's the advantage of using this app?
 
