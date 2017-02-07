@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiWOM</string>
+    <string name="wifi.advert">Estás usando una conexión WiFi, se desactivará, pero volverá cuando salgas</string>
+    <string name="internet.adv">Imposible conectar a internet</string>
+    <string name="wifi.enabled">Saliendo y reactivando conexión WiFi</string>
+</resources>
